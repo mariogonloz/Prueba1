@@ -10,5 +10,12 @@ header{
 }
 h1{
     margin: 0;
-    padding: 4em;
+    padding: 2em;
+}
+h2{
+    text-align: center;
+}
+main{
+    background-color: khaki;
+    margin: 0 100px 0 100px;
 }
